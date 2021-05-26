@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html><html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Airton Mendoza</title>
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    <body>
+        <header class="main-header">
+            <h1 class="titulo"><strong>JHOSHET EDUWIN VEGA CHAVEZ</strong></h1>
+        </header>
+        <nav class="main-nav">
+            <ul class="menu">
+                <li><a href="https://www.facebook.com/profile.php?id=100009919325323" target="_blank" class="menu_link">Facebook</a></li>
+                <li><a href="https://www.instagram.com/jhoshetvegafabp/" target="_blank" class="menu_link">Instagram</a></li>
+                <li><a href="https://www.tiktok.com/@jhoshetvegapc79?lang=es&is_copy_url=1&is_from_webapp=v1" target="_blank" class="menu_link">TikTok</a>
+                <li><a href="https://api.whatsapp.com/send?phone=977782376&text=Hola%20=)" target="_blank" class="menu_link">Whatsapp</a></li>
+            </ul>
+        </nav>
+        <ul><span class="info"> <strong> Historia de Jhoshet Eduwin Vega Chavez </strong></span>
+        
+                <li>Mi nombre es Jhoshet Eduwin Vega Chavez, tengo 19 años, nací el 16 de diciembre del 2001 en el hospital <a href="http://hdosdemayo.gob.pe/portal/" target="_blank" class="menu_link">2 de Mayo</a> , mis padres son <a href="https://www.facebook.com/eduwin.vegaortiz.7" target="_blank" class="menu_link">Eduwin vega Ortiz</a> y <a href="https://www.facebook.com/bethy.chavez.735" target="_blank" class="menu_link">Bethy Miriam Chavez Tineo</a>, tengo 1 hermano, Patrick Arjun Vega Olivera, estudie mi primaria y secundaria en el colegio <a href="https://www.facebook.com/moises.coloniatrinidad.568" target="_blank" class="links">Moises Colonia Trinidad</a> y  actualmente estoy estudiando <a href="https://es.wikipedia.org/wiki/Ingenier%C3%ADa_de_softwar" target="_blank" class="links">Ingenieria de software</a> en la <a href="https://www.usil.edu.pe/?verified=true" target="_blank" class="links"><strong>Universidad San Ignacio de Loyola (USIL)</strong></a>                
+            </ul>
+        <ul><span class="info">¿Mi familia?</span>
+            <li>Yo nací en <a href="https://www.peru.travel/es/destinos/ica" target="_blank" class="links">ica</a> y he vivido ahí hasta mis 16 años, recien ahora en 2021 vine a vivir a <a href="https://www.peru.travel/es/destinos/lima" target="_blank" class="links">Lima</a> para poder estudiar en <a href="https://www.usil.edu.pe/?verified=true" target="_blank" class="links">USIL</a></li>
+        </ul>
+        <ul><span class="info">¿Cuales son sus aficiones?</span>
+            <li>Mi mayor aficion es jugar futbol, antes de la pandemia yo jugaba para el <a href="https://www.facebook.com/ucvclubdefutbol/" target="_blank" class="links">Cesar Vallejo</a></li> 
+            <li>Otra aficion mia es jugar videojuegos.  <ol><i style="color: palegreen;">Mis videojuegos favoritos son:</i></li>
+                                                            <li><a href="https://www.epicgames.com/fortnite/es-ES/home" target="_blank" class="juegos">Fortnite</a></li>
+                                                            <img src="https://cdn2.unrealengine.com/br16-socialshare-lineup1-1920x1080-cc758b8820b8.jpg" class="img_juegos">
+                                                            <li><a href="https://www.epicgames.com/fortnite/es-ES/home" target="_blank" class="juegos">Rocket League</a></li>
+                                                            <img src="https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-e9dc9ecfd5a872841615d15ba04600a6.jpg?h=270&resize=1&w=480" class="img_juegos">
+                                                            <li><a href="https://www.callofduty.com/es/" target="_blank" class="juegos">Call Of Duty</a></li>
+                                                            <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/202970/capsule_616x353.jpg?t=1621280569" class="img_juegos">
+                                                            <li><a href="https://www.ea.com/es-es/games/fifa" target="_blank" class="juegos">FIFA</a></li>
+                                                            <img src="https://atalayar.com/sites/default/files/styles/foto_/public/noticias/Atalayar_FIFA%2021.jpg?itok=V4t36zZI" class="img_juegos">
+                                                            <li><a href="https://store.steampowered.com/app/550/Left_4_Dead_2/" target="_blank" class="juegos">Left 4 dead 2</a></li>
+                                                            <img src="https://elcomercio.pe/resizer/fQzmi5xipslm-EaJADorylg0s50=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/XSGPIAL4CFADBMIL4LMTTVGDZI.jpg" class="img_juegos">
+                                                            <li><a href="https://www.minecraft.net/es-es" target="_blank" class="juegos">Minecraft</a></li>
+                                                            <img src="http://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Minecraft_image1280w.jpg" class="img_juegos">
+                                                        </ol>
+        </ul>
